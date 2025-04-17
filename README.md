@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
   <h1>Hi 👋! I'm Vaishnavi Pandurangan</h1>
-  <h3><em>If you change the way you look at things, the things you look at change.</em></h3>
-</p>
+  <p><em>If you change the way you look at things, the things you look at change.</em></p>
+</div>
 
 ---
 
