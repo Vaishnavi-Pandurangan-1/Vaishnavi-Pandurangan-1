@@ -1,6 +1,6 @@
 <p align="center">
-  <strong>Hi 👋! I'm Vaishnavi Pandurangan</strong><br>
-  <em>If you change the way you look at things, the things you look at change.</em>
+  <h1>Hi 👋! I'm Vaishnavi Pandurangan</h1>
+  <h3><em>If you change the way you look at things, the things you look at change.</em></h3>
 </p>
 
 ---
